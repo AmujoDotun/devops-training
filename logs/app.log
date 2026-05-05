@@ -1,0 +1,5 @@
+Error: Disk full
+INFO: App started
+ERROR: Database connection failed
+INFO: Retrying...
+ERROR: Timeout
